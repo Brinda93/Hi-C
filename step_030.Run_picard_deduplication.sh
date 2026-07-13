@@ -43,4 +43,3 @@ EOF
 
         sbatch "${job_file}"
 done
-(base) [bxp5423@psh01com1hgtw00 SCRIPTS]$ 
