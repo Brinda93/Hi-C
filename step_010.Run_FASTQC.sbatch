@@ -24,4 +24,3 @@ for sample in ${samples[@]}; do
                 fastqc -o "${fastqc_output_dir}" *.fastq.gz
         fi
 done
-(base) [bxp5423@psh01com1hgtw00 SCRIPTS]$ 
